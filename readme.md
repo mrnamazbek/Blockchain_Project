@@ -26,10 +26,12 @@ Below are the images depicting the step-by-step execution of contract functions 
 
 *Updating the maximum length of a post by the contract owner.*
 
+
 ### Create Post
 ![telegram-cloud-document-2-5294440721611245616](https://github.com/mrnamazbek/Blockchain_Project/assets/119422414/a9f4e77c-be03-4abf-a330-0facbca9beff)
 
 *Creating a new post through the smart contract.*
+
 
 ### Like Post
 ![telegram-cloud-photo-size-2-5294440722067478355-y](https://github.com/mrnamazbek/Blockchain_Project/assets/119422414/3175a775-d679-42ab-96b1-43c44179703e)
@@ -37,14 +39,17 @@ Below are the images depicting the step-by-step execution of contract functions 
 
 *Liking a post, a transaction shown in the wallet and Etherscan.*
 
+
 ### Unlike Post
 ![telegram-cloud-photo-size-2-5294440722067478360-y](https://github.com/mrnamazbek/Blockchain_Project/assets/119422414/5baa1d25-31d4-4286-a42d-ccf14212c42c)
 *Unliking a post and viewing the transaction on Etherscan.*
+
 
 ### Get Total Likes for a User
 ![telegram-cloud-photo-size-2-5294440722067478358-y](https://github.com/mrnamazbek/Blockchain_Project/assets/119422414/1cd07e30-5656-492d-b672-36e45dc83382)
 
 Finally, `getTotalLikes` calculates and returns the sum of likes across all posts made by a particular user, providing a measure of the user's overall engagement on the platform.
+
 
 ### Get All Posts by a User
 ![telegram-cloud-photo-size-2-5294440722067478361-y](https://github.com/mrnamazbek/Blockchain_Project/assets/119422414/dffe8eae-dd0f-4b69-bcf9-bcdd1a853604)
